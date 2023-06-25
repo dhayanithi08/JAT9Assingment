@@ -1,0 +1,22 @@
+1 what are different type of testing
+ * whitebox blakbox greybox testing
+
+2 what are different stlcphases
+  *requirementanalysis, testplan ,testdesign, testenvironmentsetup, testexecution, testclosure
+
+3 as manual tester what qualities do you posses
+  * To understand requirement  
+  * To understand changes done
+  * To understand how requirement has been implemented
+  * To understand how the bug fixed
+  * To understand bug fix effects
+  * To understand the product from other perspectives like development, business, etc
+
+4 what is different between waterfall and agile methodologies in sdlc
+  * Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software 
+   development process               
+  *Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+  *comparing the Waterfallmethodology vs Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process
+  *Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase
+  *Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project  
+   development start
