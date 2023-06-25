@@ -1,0 +1,23 @@
+1.list down all the model of sdlc
+  *waterfall,rad model,sprialmodel,v-model,incrementalmodel,agilemodel,interativemodel,bigbangmodel
+2.what is stlc also explain all stages of stlc
+  *stlc stand for software testing life cycle stlc is a sequence of different activities performed by the testing team to ensure the quality
+   of the software
+  *stlc stages-requirement analysis,test planning,testcase development,test environment setup,test execution,test closure
+3.difference between quality assurance (qa) & quality control (qc)
+   *Quality assurance
+       .quality assurance prevents defects
+       .quality assurance is process oriented
+       .quality assurance in proactive in a process & preventive in nature
+       .quality assurance is a managerial tool
+       .each developer is responsible for quality assurance
+   *Quality control
+       .quality control provides identification of defects
+       .quality control is product oriented
+       .quality control is a corrective tool
+       .testing team is responsible for quality control
+       .quality control is a reactive process
+ 4.difference between manual testing & automation testing
+    *automation testing uses automation tool to executed testcases in manual testing test cases are executed by a human tester & software
+     automated testing is significantly faster than a manual approach manual testing is time consuming & takes up human resource the initial 
+      investment in the automated testing is high                                                                            
