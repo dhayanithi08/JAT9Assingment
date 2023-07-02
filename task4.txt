@@ -1,0 +1,51 @@
+Q1.difference between smoke & sanity testing
+
+Smoke Testing
+ *Smoke Testing is performed to ascertain that the critical functionalities of the program is working fine
+ *The objective of this testing is to verify the “stability” of the system in order to proceed with more rigorous testing
+ *This testing is performed by the developers or testers
+ *Smoke testing is usually documented or scripted
+ *Smoke testing is a subset of Acceptance testing
+ *Smoke testing exercises the entire system from end to end
+ *Smoke testing is like General Health Check Up
+
+SANITY TESTING
+ *Sanity Testing is done to check the new functionality/bugs have been fixed
+ *The objective of the testing is to verify the “rationality” of the system in order to proceed with more rigorous testing
+ *Sanity testing in software testing is usually performed by testers
+ *Sanity testing is usually not documented and is unscripted
+ *Sanity testing is a subset of Regression Testing
+ *Sanity testing exercises only the particular component of the entire system
+ *Sanity Testing is like specialized health check up
+
+2.validation & verification
+ 
+ VALIDATION 
+ *It includes testing and validating the actual product
+ *Validation is the dynamic testing
+ *It includes the execution of the code
+ *Methods used in validation are Black Box Testing, White Box Testing and non-functional testing
+ *It checks whether the software meets the requirements and expectations of a customer or not
+ *It can only find the bugs that could not be found by the verification process
+ *The goal of validation is an actual product
+ *Validation is executed on software code with the help of testing team
+ *It comes after verification
+
+VERIFICATION
+ *It comes after verification
+ *Verification is the static testing
+ *It does not include the execution of the code
+ *Methods used in verification are reviews, walkthroughs, inspections and desk-checking
+ *It checks whether the software conforms to specifications or not
+ *It can find the bugs in the early stage of the development
+ *The goal of verification is application and software architecture and specification
+ *Quality assurance team does verification
+ *It comes before validation
+
+Q3.AGILE METHODOLOGY
+ *The Agile methodology is a project management approach that involves breaking the project into phases and emphasizes continuous collaboration and improvement. Teams follow a cycle of planning, executing, and evaluating
+
+Q4.epic & user stories
+ *An Epic can be defined as a big chunk of work that has one common objective. It could be a feature, customer request or business requirement. In backlog, it is a placeholder for a required feature with few lines of description. It tells compactly about final output of user needs. In the beginning, it may not contain all the details that team needs to work on. These details are defined in User Stories. An epic usually takes more than one sprint to complete
+ USER STORIES
+ * you can create a new user story by selecting the option to develop a new issue. When choosing the issue type, you must choose Story. The description field can then be used to replace the user story itself. You'll see it on the screen for creating a new issue.
